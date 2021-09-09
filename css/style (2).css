@@ -103,6 +103,7 @@ h3::after{
         border: none;
         color: white;
         border-radius: 10px;
+        margin-left: auto;
     }
       label{
         padding-bottom: 30px;
